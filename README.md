@@ -1,1 +1,2 @@
 # FinalPythonProject
+Welcome to my python project for CS102-B! My name is Evan Lutchmidat and in my python code we will have a funciton that takes in data from stocks (the years and stock value over time), finds the 5 basic statistical interpretations of the stocks, and print it out to you, showing which years were the best to invest in a stock and how a stock is doing currently in comparison to the value of the stock at other times.
